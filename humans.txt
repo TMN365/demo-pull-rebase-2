@@ -1,9 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# TEAM INFORMATION
 
-    <name> -- <role> -- <twitter>
+    Github team -software development
 
 # THANKS
 
